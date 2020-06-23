@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#principal{
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+	
+}
+#barra_topo a{
+   color: #fff;
+   margin: 7px 40px;
+    float: right;
+    text-decoration: none;
+    font-family: verdana;
+}
+#logo{
+    width: 200px;
+    height: 197px;
+    float: left;
+}
+#banner{
+    width: 600px;
+    height: 197px;
+    float: right;
+    background-image: url(../imagem/banner.png)
+}
+#barra_menu ul{
+	
+list-style: none;
+
+
+
+    
+}
+
+#barra_menu ul li{
+	
+display: inline;
+
+
+
+
+    
+}
+
+#barra_menu a{
+	
+color: #fff;
+
+text-decoration: none;
+
+padding: 9px 55px;
+
+display: inline-block;
+
+font: bold 16px verdana;
+
+text-transform: uppercase;
+    
+}
+
+
+#conteudo1{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+#conteudo2{
+    width: 400px;
+    height: 400px;
+    float: right;
+}
+
+#conteudo2 a{
+	
+	float: right;
+	padding-right: 30px;
+	
+	
+	
+	
+}
+
+h1{
+    text-align: center;
+    padding: 45px 0;
+    font: bold 16px verdana, sans-serif;
+}
+
+.formatacao_texto{	
+
+padding: 30px 10px 10px;
+	
+}
+
+
+.formatacao_texto2{
+	
+	padding: 5px 5px 20px;
+	
+}
+
+.copy{
+
+text-align: center;
+
+color: white;
+
+padding: 12px;
+
+font-size: 12px;	
+}
+
+
+#img_1{
+    margin: 0 auto;
+    display: block;
+    border: 5px solid #002e68;
+	border-radius: 15px;
+}
+#img_2{
+    margin: 0 auto;
+    display: block;
+    border: 5px solid #002e68;
+	border-radius: 15px;
+}
+
+.barra_azul{
+    height: 40px;
+    background-color: #002e68;
+    clear: both;
+}
+
+#rodape{
+    
+}

@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#principal{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+#barra_topo{
+    
+}
+
+#rodape{
+    
+}
+
+.barra{
+    height: 35px;  
+    background-color: #6c6713;
+    clear: both;
+}
+
+#banner{
+    height: 230px;
+    background-image: url(../imagem/banner.jpg)
+}
+
+#conteudo{
+    height: 465px;
+    border-top: 4px solid #fff;
+    border-bottom: 4px solid #fff;
+}
+
+h1{
+    background: #a9a8b6;
+    font: bold 16px verdana;
+    padding: 7px 13px;
+   
+}
+
+#destaque1{
+    width: 550px;
+    height: 465px;
+    float: left;
+}
+
+#destaque{
+    height: 200px;
+    background-color: #dfdde8;
+    border-bottom: 4px solid #fff;
+}
+
+#promocao{
+    width: 275px;
+    height: 265px;
+    background: #dfdde8;
+    float: left;
+    border-right: 4px solid #fff;
+    border-bottom: 4px solid #fff;
+         
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    
+}
+
+#personagens{
+    width: 275px;
+    height: 265px;
+    background: #dfdde8;
+    float: right;
+    border-bottom: 4px solid #fff;
+    
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#destaque2{
+    width: 250px;
+    height: 465px;
+    background: #dfdde8;
+    float: right;
+    border-left: 4px solid #fff;
+    
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+
+
+
+
